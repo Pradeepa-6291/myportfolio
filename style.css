@@ -1,0 +1,26 @@
+/* Reset default margin and padding */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body styling */
+body {
+  background-color: blue;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+/* Heading style */
+h1 {
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+
+/* Paragraph style */
+p {
+  font-size: 18px;
+}
